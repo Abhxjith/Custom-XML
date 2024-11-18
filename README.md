@@ -75,10 +75,6 @@ The application includes predefined XML templates (`predefinedXML`) for quick te
 ## Contributing  
 Contributions are welcome! Feel free to open an issue or submit a pull request.  
 
-## License  
-This project is licensed under the MIT License.  
-
----  
 
 ### Example Use Case  
 1. Select **Predefined XML** or input custom XML.  
